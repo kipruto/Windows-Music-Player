@@ -11,7 +11,7 @@ Add multiple songs to a playlist and shuffle or repeat them
 Adjust the volume, skip forward or backward, and pause or resume playback
 Display song metadata, including the title, artist, album, and cover art (if available)
 
-# Installation
+## Installation
 To install and run the music player app, follow these steps:
 
 Clone this repository to your local machine using Git or download the ZIP file and extract it.
@@ -27,12 +27,12 @@ Click the "X" button on the playlist item to remove it from the playlist.
 Contributing
 Contributions to the music player app are welcome and appreciated! To contribute, follow these steps:
 
-# Fork this repository to your own account.
+## Fork this repository to your own account.
 
 Create a new branch for your feature or bug fix.
 Commit your changes and push them to your forked repository.
 Create a new pull request from your forked repository to this one.
 Please include a detailed description of your changes and any relevant information in your pull request.
 
-# License
+## License
 The music player app is licensed under the MIT License. You are free to use, modify, and distribute the app for any purpose, as long as you include the original copyright notice and license terms.
