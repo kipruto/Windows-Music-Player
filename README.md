@@ -4,7 +4,7 @@
 
 This is a simple Windows music player application built with Electron.js that allows you to play audio files on your Windows based machine.
 
-# Features
+## Features
 
 Play audio files in various formats, including MP3, WAV, and FLAC
 Add multiple songs to a playlist and shuffle or repeat them
